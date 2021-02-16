@@ -1,0 +1,9 @@
+Simple AI
+
+* Opening database, endgame database
+	-- Basically unbeatable in opening or endgame.
+
+* Minimax with alpha-beta pruning
+
+* Evaluation heuristic: how? 
+	-- Maybe machine-learning learned from game positions?
